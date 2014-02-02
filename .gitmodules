@@ -1,0 +1,6 @@
+[submodule "falcon"]
+	path = falcon
+	url = https://github.com/penberg/falcon
+[submodule "src/java/falcon"]
+	path = src/java/falcon
+	url = https://github.com/penberg/falcon
